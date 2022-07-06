@@ -1,0 +1,118 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.three-media {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.division-area {
+    width: 30%;
+    padding: 2%;
+}
+
+.top-banner {
+    background-image: url(images2/Banner.png);
+    background-repeat: no-repeat;
+}
+
+.blue-color {
+    color: blue;
+}
+
+.pink-color {
+    color: pink;
+}
+
+.red-color {
+    color: red;
+}
+
+.footer-one {
+    text-align: center;
+}
+
+.footer-two {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(141, 131, 228), blue);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(230, 36, 69), rgb(240, 204, 204), rgb(241, 137, 155));
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+
+}
+
+.link-button3 {
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(233, 125, 125), red);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+
+}
+
+.partition-smith {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.half-width img {
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+
+}
+
+.background-banner {
+    background-image: url(images2/background\ banner.jpg);
+    background-repeat: repeat-y;
+
+}
+
+.background-banner2 {
+    background-image: url(images2/background\ banner.jpg);
+    background-position: right;
+    background-repeat: repeat-y;
+
+
+}
+
+#matt-smith {
+    border-left: 100px solid rgb(87, 199, 233);
+}
+
+#matt-smith2 {
+    border-right: 100px solid rgb(87, 199, 233);
+}
